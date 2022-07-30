@@ -141,7 +141,7 @@ inquirer.prompt(questions).then(({userName, email, projectTitle, illustration, l
  //TODO: Create a function to write README file 
     const myReadme = readMeFormat ({userName, email, projectTitle, illustration, license, inquirer, installation, repositoryDocument, document, tests});
     
-    fs.writeFile("README.md",myReadme);
+    fs.writeFile("generated readme/README.md",myReadme);
  
 })
 
