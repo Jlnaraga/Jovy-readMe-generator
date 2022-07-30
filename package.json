@@ -1,24 +1,14 @@
 {
-  "dependencies": {
-    "inquirer": "^8.2.4"
-  },
   "name": "jovy-readme-generator",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Jlnaraga/Jovy-readMe-generator.git"
-  },
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Jlnaraga/Jovy-readMe-generator/issues"
-  },
-  "homepage": "https://github.com/Jlnaraga/Jovy-readMe-generator#readme",
-  "description": ""
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
