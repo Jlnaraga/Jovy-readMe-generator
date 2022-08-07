@@ -6,9 +6,9 @@ const {
     renderLicenseBadge,
     renderLicenseLink,
     renderLicenseSection
-  } = require('./utils/generateMarkdown.js')
+  } = require('./utils/generateMarkdown')
 
-const readMeFormat = ({userName, email, projectTitle, illustration, license, inquirer, installation, repositoryDocument, documen, tests}) => {
+const readMeFormat = ({userName, email, projectTitle, illustration, license, inquirer, installation, repositoryDocument, document, tests}) => {
     return `
 # ${projectTitle}
 ${renderLicenseBadge(license)}

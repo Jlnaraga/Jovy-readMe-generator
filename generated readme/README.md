@@ -1,11 +1,11 @@
 
-# hhh
-![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+# readme generator
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
     
 
 ## Description
-hhh
+
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
@@ -26,18 +26,18 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Tests](#tests)
 
 ## Installation
-aaa
+
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 ## Usage
-aaa
+documents
 
 Provide instructions and examples for use.
 
 ## License
 
-
+(https://opensource.org/licenses/MIT)
 
 
 The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. 
@@ -50,12 +50,12 @@ If you need help choosing a license, refer to [https://choosealicense.com/](http
 
 
 ## Tests
-aa
+test
 
 ## Contact Info:
 
 *GitHub: https://github.com/jlnaraga
 
-*Email:hhh
+*Email:ira@yahoo.com
 
 Go the extra mile and write tests for your application. Then provide examples on how to run them here.
